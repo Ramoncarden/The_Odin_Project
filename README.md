@@ -1,0 +1,1 @@
+HTML/CSS clone of google homepage as part of The Odin Project's curriculum.
